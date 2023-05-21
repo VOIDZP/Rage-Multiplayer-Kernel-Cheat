@@ -1,6 +1,4 @@
-# Rage-Multiplayer-Kernel-Cheat
-
-Features: 
+Features:
 Auto Mapping
 
 No Recoil
@@ -17,5 +15,16 @@ Max Armor
 Max Health
 Juggernaut Armor
 
-
 More Features Added Soon
+
+New Update V1.1:
+
+Fixed Rage Multiplayer Window Info (Causing The Menu To Not Appear On Rage Multiplayer)
+
+ADDED:
+
+Unlimited Clip
+Camera FOV
+Gravity
+RPM
+
